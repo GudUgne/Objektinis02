@@ -8,6 +8,6 @@
 
 ***Pridėta***
 
--Duomenų nuskaitymas įvedant duomenis rankiniu būdu;
--Vidurkių pagal medianą ir pažymių vidurkius apskaičiavimas;
--Rezultatų išvedimas ekrane;
+- Duomenų nuskaitymas įvedant duomenis rankiniu būdu;
+- Vidurkių pagal medianą ir pažymių vidurkius apskaičiavimas;
+- Rezultatų išvedimas ekrane;
