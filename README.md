@@ -9,7 +9,9 @@
 ***Pridėta***
 
 - Duomenų nuskaitymas įvedant duomenis rankiniu būdu;
-- Galima pasirinkti, kiek namų darbų pažymių norite įvesti/sugeneruoti;
-- Galutinių vidurkių pagal medianą arba pažymių vidurkius apskaičiavimas;
-- Visų rezultatų išvedimas ekrane;
+- Įrašoma kiek studentų norite vesti, tada kiekvieno studento duomenys vedami po vieną;
+- Įvedami vardas, pavardė;
 - Vartotojui pasirinkus, egzamino ir namų darbų pažymiai yra atsitiktinai generuojami arba įvedami ranka;
+- Galima pasirinkti, kiek namų darbų pažymių norite įvesti/sugeneruoti;
+- Galutinių vidurkių pagal medianą arba pažymių vidurkius apskaičiavimas, irgi pasirenkama;
+- Visų rezultatų išvedimas ekrane;
