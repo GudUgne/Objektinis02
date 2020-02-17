@@ -9,6 +9,6 @@
 ***Pridėta***
 
 - Duomenų nuskaitymas įvedant duomenis rankiniu būdu;
-- Vidurkių pagal medianą ir pažymių vidurkius apskaičiavimas;
+- Galutinių vidurkių pagal medianą ar pažymių vidurkius apskaičiavimas;
 - Rezultatų išvedimas ekrane;
 - Vartotojui pasirinkus, egzamino ir namų darbų pažymiai yra atsitiktinai generuojami;
