@@ -15,3 +15,8 @@
 - Galima pasirinkti, kiek namų darbų pažymių norite įvesti/sugeneruoti;
 - Galutinių vidurkių pagal medianą arba pažymių vidurkius apskaičiavimas, irgi pasirenkama;
 - Visų rezultatų išvedimas ekrane;
+
+
+-Programos scenarijų schema:
+
+![Schema](https://github.com/GudUgne/Objektinis02/blob/master/Diagram.png)
