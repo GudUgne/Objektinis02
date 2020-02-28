@@ -2,6 +2,13 @@
 
 ## Versijų istorija (changelog)
 
+### [v0.3] - (2020-02-28)
+
+***Pridėta***
+
+- Pridėtas "Exception handling" - įvedus nesuprantamą/neteisingą pasirinkimą ar atsakymą "bendraujant" su konsole, rodys klaidą;
+- Sukurti papildomi .cpp ir.h failai;
+
 ### [v0.2](https://github.com/GudUgne/Objektinis02/releases/tag/v0.2) - (2020-02-28)
 
 ***Pridėta***
