@@ -8,7 +8,7 @@
 
 - Pakoreguotas konsolės "bendravimas" su vartotoju;
 - Duomenis galima skaityti ir iš failo, studentų ar pažymių kiekiui apribojimų nėra;
-- Pridėtas studentų rūšiavimas pagal pavardes abecėlės tvarka;
+- Pridėtas studentų rūšiavimas pagal vardus abecėlės tvarka;
 - Duomenys (nesvarbu, iš failo ar įvesti ranka) nuo šiol yra saugomi naujame faile "Rezultatai.txt";
 
 ### [v0.1](https://github.com/GudUgne/Objektinis02/releases/tag/v.01) - (2020-02-17)
