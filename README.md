@@ -2,7 +2,7 @@
 
 ## Versijų istorija (changelog)
 
-### [v0.3] - (2020-02-28)
+### [v0.3](https://github.com/GudUgne/Objektinis02/releases/tag/v0.3) - (2020-02-28)
 
 ***Pridėta***
 
