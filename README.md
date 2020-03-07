@@ -2,6 +2,17 @@
 
 ## Versijų istorija (changelog)
 
+### [v0.4]() - (2020-03-08)
+
+***Pridėta***
+
+- Dabar programa pasirinkus sprendimus "Failas -> Naujas" generuoja 1000, 10000, 100000, 1000000 ir 10000000 el. duomenų failus;
+- Pasirinkus "Mediana" arba "Vidurkis" apskaičiuojamas galutinis studento balas;
+- Duomenys išskirstomi į dvi grupes - Nuskriaustus, kurių balas < 5 ir Praslydusius, kurių balas >= 5;
+- Išskirstyti duomenys surikiuojami pagal pavardes ir išspausdinami į du naujus failus - "Nuskriausti.txt" ir "Praslyde.txt"
+- Parašoma, kiek užtruko sukurti, nuskaityti, apskaičiuoti, išskirstyti ir išvesti (į du naujus failus) visus šiuos duomenis, kiekvieno   failo trukmė rodoma atskirai;
+
+
 ### [v0.3](https://github.com/GudUgne/Objektinis02/releases/tag/v0.3) - (2020-02-28)
 
 ***Pridėta***
