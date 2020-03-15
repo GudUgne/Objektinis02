@@ -17,6 +17,7 @@
 
 - Sugeneruotus naujus failus apskaičiuoja, surikiuoja ir išveda trimis būdais, naudojant tris skirtingus STL konteinerius - Vector, List ir Deque;
 - Nuskaitymo ir išskirstymo (į nuskriaustus ir praslydusius) funkcijų vykdymo trukmė yra apskaičiuojama naudojant chrono biblioteką;
+- Kompiuterio parametrai: i7 8086k CPU, 16GB RAM, HDD
 
 ### [v0.4](https://github.com/GudUgne/Objektinis02/releases/tag/v0.4) - (2020-03-08)
 
