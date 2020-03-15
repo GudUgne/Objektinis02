@@ -1,8 +1,24 @@
 # Studentų rezultatų skaičiuoklė
+ 
+## Įdiegimo instrukcija
+
+- Parsisiųskite naujausią programos versiją, dabar - v0.5;
+
+- Parsisiųskite ir įsidiekite C++ IDE, pavyzdžiui, CodeBlocks arba Visual Studio (aš naudoju VS);
+
+- Parsisiuntus programą, atidarykite ją paspaudę .sln failą.
+
 
 ## Versijų istorija (changelog)
 
-### [v0.4]() - (2020-03-08)
+### [v0.5]() - (2020-03-15)
+
+***Pridėta***
+
+- Sugeneruotus naujus failus apskaičiuoja, surikiuoja ir išveda trimis būdais, naudojant tris skirtingus STL konteinerius - Vector, List ir Deque;
+- Nuskaitymo ir išskirstymo (į nuskriaustus ir praslydusius) funkcijų vykdymo trukmė yra apskaičiuojama naudojant chrono biblioteką;
+
+### [v0.4](https://github.com/GudUgne/Objektinis02/releases/tag/v0.4) - (2020-03-08)
 
 ***Pridėta***
 
