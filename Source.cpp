@@ -46,7 +46,7 @@ int main()
 					//prasideda generavimas, skaiciavimai ir t.t
 
 					int a = 1000;
-					for (int i = 0; i < 4; i++) {
+					for (int i = 0; i < 5; i++) {
 						
 						DuomenuFailoGeneravimas(a, 5);
 						
