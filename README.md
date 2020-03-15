@@ -19,6 +19,8 @@
 - Nuskaitymo ir išskirstymo (į nuskriaustus ir praslydusius) funkcijų vykdymo trukmė yra apskaičiuojama naudojant chrono biblioteką;
 - Kompiuterio parametrai: i7 8086k CPU, 16GB RAM, HDD
 
+![funkcijų vykdymo trukmė](https://github.com/GudUgne/Objektinis02/blob/v0.5/89856051_914006059034704_2517563426364981248_n.png)
+
 ### [v0.4](https://github.com/GudUgne/Objektinis02/releases/tag/v0.4) - (2020-03-08)
 
 ***Pridėta***
