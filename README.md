@@ -2,16 +2,29 @@
  
 ## Įdiegimo instrukcija
 
-- Parsisiųskite naujausią programos versiją, dabar - v0.5;
+- Parsisiųskite naujausią programos versiją, dabar - v1.0;
 
 - Parsisiųskite ir įsidiekite C++ IDE, pavyzdžiui, CodeBlocks arba Visual Studio (aš naudoju VS);
 
 - Parsisiuntus programą, atidarykite ją paspaudę .sln failą.
 
+## Įdiegimas UNIX kompiuteryje
+git clone https://github.com/GudUgne/Objektinis02.git
+cd Objektinis02
 
 ## Versijų istorija (changelog)
 
-### [v0.5]() - (2020-03-15)
+
+### [v1.0]() - (2020-04-05)
+***Pridėta***
+- Dviejomis strategijomis skaičiuojami studentai naudojant vector, deque ir list STL konteinerius;
+- Trečia strategija pritaikyta apskaičiuoti vector konteinerį, naudojant papildomus copy_if ir remove_copy_if algoritmus;
+- Išvada patestavus: antroji strategija yra spartesnė skaičiuojant su list, bet ne su kitais konteineriais;
+- Trečioji strategija su vektoriais yra sparčiausia;
+- Pridėtas CMake failas;
+![Apskaičiavimai](https://github.com/GudUgne/Objektinis02/blob/v1.0/Screenshot_1.png)
+
+### [v0.5](https://github.com/GudUgne/Objektinis02/releases/tag/v0.5) - (2020-03-15)
 
 ***Pridėta***
 
