@@ -10,6 +10,7 @@
 
 ## Įdiegimas UNIX kompiuteryje
 git clone https://github.com/GudUgne/Objektinis02.git
+
 cd Objektinis02
 
 ## Versijų istorija (changelog)
@@ -22,6 +23,8 @@ cd Objektinis02
 - Išvada patestavus: antroji strategija yra spartesnė skaičiuojant su list, bet ne su kitais konteineriais;
 - Trečioji strategija su vektoriais yra sparčiausia;
 - Pridėtas CMake failas;
+
+
 ![Apskaičiavimai](https://github.com/GudUgne/Objektinis02/blob/v1.0/Screenshot_1.png)
 
 ### [v0.5](https://github.com/GudUgne/Objektinis02/releases/tag/v0.5) - (2020-03-15)
