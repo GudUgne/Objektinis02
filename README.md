@@ -1,5 +1,7 @@
 # Studentų rezultatų skaičiuoklė
  
+### [Tolimesnės versijos] (https://github.com/GudUgne/Objektinis03) <-
+
 ## Įdiegimo instrukcija
 
 - Parsisiųskite naujausią programos versiją, dabar - v1.0;
@@ -16,7 +18,7 @@ cd Objektinis02
 ## Versijų istorija (changelog)
 
 
-### [v1.0]() - (2020-04-05)
+### [v1.0](https://github.com/GudUgne/Objektinis02/releases/tag/v1.0) - (2020-04-05)
 ***Pridėta***
 - Dviejomis strategijomis skaičiuojami studentai naudojant vector, deque ir list STL konteinerius;
 - Trečia strategija pritaikyta apskaičiuoti vector konteinerį, naudojant papildomus copy_if ir remove_copy_if algoritmus;
