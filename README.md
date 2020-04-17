@@ -1,6 +1,6 @@
 # Studentų rezultatų skaičiuoklė
  
-### [Tolimesnės versijos] (https://github.com/GudUgne/Objektinis03) <-
+### [Tolimesnės versijos](https://github.com/GudUgne/Objektinis03) <-
 
 ## Įdiegimo instrukcija
 
