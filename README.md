@@ -48,6 +48,15 @@ cd Objektinis02
 - Parašoma, kiek užtruko sukurti, nuskaityti, apskaičiuoti, išskirstyti ir išvesti (į du naujus failus) visus šiuos duomenis, kiekvieno   failo trukmė rodoma atskirai;
 
 
+| Failo dydis | Sukūrimas | Nuskaitymas | Išrūšiavimas | Išspausdinimas |
+| ----------- | --------- | ----------- | ------------ | -------------- |
+| 1k          | 0.02017s  | 0.006011s   | 0.000998s    | 0.019973s      |
+| 10k         | 0.168662s | 0.05303s    | 0.008052s    | 0.193348s      |
+| 100k        | 1.7335s   | 0.545151s   | 0.0898s      | 2.14635s       |
+| 1m          | 17.613s   | 5.826s      | 0.971475s    | 23.9785s       |
+| 10m         | ~180s     | ~60s        | 9.832s       | ~240s          |
+
+
 ### [v0.3](https://github.com/GudUgne/Objektinis02/releases/tag/v0.3) - (2020-02-28)
 
 ***Pridėta***
