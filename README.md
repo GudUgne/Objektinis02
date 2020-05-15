@@ -8,7 +8,9 @@
 
 - Parsisiųskite ir įsidiekite C++ IDE, pavyzdžiui, CodeBlocks arba Visual Studio (aš naudoju VS);
 
-- Parsisiuntus programą, atidarykite ją paspaudę .sln failą.
+- Parsisiuntus programą, atidarykite ją paspaudę .sln failą;
+
+- Arba galima naudoti CMake failą;
 
 ## Įdiegimas UNIX kompiuteryje
 git clone https://github.com/GudUgne/Objektinis02.git
